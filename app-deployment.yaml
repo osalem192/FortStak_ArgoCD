@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: osalem192/todo-node-app:8
+        image: osalem192/todo-node-app:9
         ports:
         - containerPort: 4000
         env:
